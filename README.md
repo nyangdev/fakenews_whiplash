@@ -18,8 +18,8 @@ fakenews
 │   └── mission2_train.csv // 임무 2 훈련 데이터
 ├── docs
 │   ├── fakenews_발표자료.pdf
-│   ├── 분석 결과 보고서(가짜 news 탐지자동화).pdf
-│   └── 분석 계획 보고서(가짜 news 탐지 자동화).pdf
+│   ├── 분석 결과 보고서(가짜 news 탐지자동화).docx
+│   └── 분석 계획 보고서(가짜 news 탐지 자동화).docx
 └── model
     ├── whiplash_FastText_mission1.py
     ├── whiplash_FastText_mission2.py
